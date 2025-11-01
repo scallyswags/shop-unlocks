@@ -1,4 +1,5 @@
-package net.runelite.client.plugins.shopunlocks;
+package com.shopunlocks;
+
 
 import javax.inject.Inject;
 import javax.inject.Singleton;

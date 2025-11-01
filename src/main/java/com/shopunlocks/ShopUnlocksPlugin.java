@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.shopunlocks;
+package com.shopunlocks;
 
 import com.google.inject.Provides;
 import javax.inject.Inject;
